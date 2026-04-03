@@ -4,13 +4,11 @@
 
 其名称因谐音被社区用户亲切地称为“肯德基机场”，运营风格独树一帜。
 
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
-[![Type](https://img.shields.io/badge/Node-Direct_Premium-blue.svg)]()
-[![Protocol](https://img.shields.io/badge/Protocol-VLESS_/_AnyTLS-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]() [![Type](https://img.shields.io/badge/Node-Direct_Premium-blue.svg)]() [![Protocol](https://img.shields.io/badge/Protocol-VLESS_/_AnyTLS-orange.svg)]()
 
 > **免责声明**：本文档仅作为技术交流与网络性能测评参考，请在遵守当地法律法规的前提下使用。
 >
-> 更新时间：2026-04-03
+> **更新时间**：2026-04-03
 >
 
 
@@ -78,9 +76,18 @@
 
 ---
 
+## 🌍 测试图
+
+<img src="https://raw.githubusercontent.com/jichangbaike/kendeji/refs/heads/main/images/kendeji-test-20260401.png" alt="肯の机 测试图" >
+
+---
+
 ## 💳 支付方式
 目前支持：**支付宝 (Alipay)**、**微信支付 (WeChat Pay)**。
 *暂不支持加密货币支付。*
 
 ---
-**[立即前往官网探索]** *(此处可自行添加链接)*
+
+## 肯の机官网入口
+
+[肯の机官网](https://finalto.xyz/zwEy1h)
