@@ -31,7 +31,9 @@
 ### 2. 加密协议支持
 全面适配前沿协议，在兼顾抗封锁性的同时，极大降低了协议本身的性能损耗：
 * **VLESS** (XTLS-RPRX-Vision)
-* **AnyTLS** ### 3. 内容解锁能力
+* **AnyTLS**
+
+### 3. 内容解锁能力
 节点具备优秀的落地质量，完美支持以下服务：
 * **流媒体**：Netflix, Disney+, YouTube Premium
 * **生产力**：ChatGPT (OpenAI), Claude, Gemini
